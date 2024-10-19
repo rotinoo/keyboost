@@ -8,7 +8,7 @@ import threading
 amplify = False
 key_to_amplify = ''
 repetitions = 100
-# pyautogui.PAUSE = 0.05 # Interval of the repetition default 0.1
+pyautogui.PAUSE = 0.05 # Interval of the repetition default 0.1
 key_hook = None  # Keep track of the hooked key
 stop_repeating = False  # Flag to stop the repetitions
 
