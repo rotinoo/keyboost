@@ -31,3 +31,10 @@ I released the executeable version but only with the default repeation invertal 
 3. Run the code
    ```bash
    python keyboost.py
+
+## Usage
+1. Open the application.
+2. Enter the key you want to amplify.
+3. Enter the number of repetitions.
+4. Press Start or F3 to begin amplifying the key.
+5. Press Stop or F4 to stop the amplification.
